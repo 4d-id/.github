@@ -6,7 +6,7 @@ The web gave every document a name that worked across every browser and server. 
 
 > **Identities are shared and global, but what you can see and say about them is yours.**
 
-**▶ Try it live at [x4d-id.exe.xyz](https://x4d-id.exe.xyz/)** — an interactive globe you can name the world on, plus a robot-and-drone building and a container-ship demo, all running real minted 4D-IDs.
+**▶ Try it live at [4d-id.org](https://4d-id.org/)** — an interactive globe you can name the world on, plus a robot-and-drone building and a container-ship demo, all running real minted 4D-IDs.
 
 ## Repositories
 
